@@ -1,0 +1,23 @@
+Last login: Sun Oct 13 17:40:38 on ttys000
+jamiegrasley@Jamies-Air-7 Lab 3 % ./ESOF_3251_LAB1_Part2_Jamie_Grasley_1164621_8_OCT_24 < ESOF_3251_LAB1_Part2_Input_Jamie_Grasley_1164621_8_OCT_24.txt
+-185
+Testing lexical analyzer
+
+1067
+Two is less then four
+Math is working, five is not less then four
+LEQ works
+GEQ works
+Greater than works
+
+A new line printed
+Ending process
+jamiegrasley@Jamies-Air-7 Lab 3 % 
+
+
+
+
+
+
+
+

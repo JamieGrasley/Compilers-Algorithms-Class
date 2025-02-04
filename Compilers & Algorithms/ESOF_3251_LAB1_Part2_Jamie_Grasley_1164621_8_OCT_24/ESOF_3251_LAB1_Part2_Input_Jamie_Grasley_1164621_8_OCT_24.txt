@@ -1,0 +1,12 @@
+print 20*(30 -67) / 4;
+print "Testing lexical analyzer";
+print newline;
+print 34 * 35 - 123;
+if (2<4) then print "Two is less then four"; else print "Math is broken"; endif 
+if (5<4) then print "Math is broken"; else print "Math is working, five is not less then four"; endif
+if (4<=4) then print "LEQ works"; else print "Math is broken"; endif
+if (5>=4) then print "GEQ works"; else print "Math is broken"; endif
+if (4>3) then print "Greater than works"; else print "Math is broken"; endif
+print newline;
+print "A new line printed";
+stop; 
